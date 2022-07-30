@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "483760232492",
+    "project_id": "health-first-app",
+    "storage_bucket": "health-first-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483760232492:android:e7db8335e3e9284d9a5989",
+        "android_client_info": {
+          "package_name": "com.healthfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483760232492-apockpju6f3ct0pe8prjc7907jfksqls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pNhuPBiLCvtuYq-oL93Ta-dSzymuHPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483760232492-apockpju6f3ct0pe8prjc7907jfksqls.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483760232492-b85n1eqehtu620ounguq0vsaek80omrq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.healthapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
